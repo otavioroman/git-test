@@ -1,10 +1,13 @@
-<?php
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  echo 12314;
-  echo 'Otavio';
-?>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Teste</title>
+    </head>
+    <body>
+    <?php
+    echo 12314;
+    echo 'Otavio';
+    ?>
+    </body>
+</html>
