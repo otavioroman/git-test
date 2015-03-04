@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <meta name="author" content="Victor Ferraresi">
+        <meta name="author" content="Otávio Roman">
         <title>array</title>
     </head>
     <body>
