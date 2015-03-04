@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <meta name="author" content="Victor Ferraresi">
+        <meta name="author" content="Otavio Roman">
         <title>Olar</title>        
     </head>
     <body>
